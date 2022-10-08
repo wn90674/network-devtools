@@ -1,0 +1,20 @@
+{
+	"manifest_version": 3,
+	"name": "netWork",
+	"version": "0.0.1",
+	"description": "netWork proxy",
+	"icons":
+	{
+		"16": "img/icon.png",
+		"48": "img/icon.png",
+		"128": "img/icon.png"
+	},
+	"permissions":
+	[
+		"webRequest",
+		"declarativeNetRequest",
+		"storage"
+	],
+	"homepage_url": "https://www.baidu.com",
+	"devtools_page": "devtools.html"
+}
